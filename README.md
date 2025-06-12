@@ -10,6 +10,11 @@ This is an interactive Power BI dashboard created using a dataset from Madhav Ec
 - **Microsoft Excel** – For data formatting and cleanup
 
 ---
+## 📷 Dashboard Preview
+  
+![Dashboard]()
+
+---
 
 ## 📊 Key Insights
 
