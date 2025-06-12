@@ -12,7 +12,7 @@ This is an interactive Power BI dashboard created using a dataset from Madhav Ec
 ---
 ## 📷 Dashboard Preview
   
-![Dashboard]()
+![Dashboard](Dashboard.png)
 
 ---
 
